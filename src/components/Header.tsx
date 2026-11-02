@@ -75,7 +75,7 @@ export function Header() {
         </nav>
 
         <div className="header-end">
-          <a className="btn btn-fill btn-sm desk-ig" href={site.instagram} target="_blank" rel="noreferrer">
+          <a className="btn btn-fill btn-sm desk-ig" href={site.dm} target="_blank" rel="noreferrer">
             <InstagramIcon />
             Instagram
           </a>
@@ -114,7 +114,7 @@ export function Header() {
             {link.label}
           </Link>
         ))}
-        <a href={site.instagram} target="_blank" rel="noreferrer">
+        <a href={site.dm} target="_blank" rel="noreferrer">
           Instagram
         </a>
       </nav>

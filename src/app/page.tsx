@@ -38,7 +38,7 @@ export default function HomePage() {
                 Shop the collection
                 <ArrowIcon />
               </Link>
-              <a className="btn btn-line" href={site.instagram} target="_blank" rel="noreferrer">
+              <a className="btn btn-line" href={site.dm} target="_blank" rel="noreferrer">
                 <InstagramIcon />
                 Instagram
               </a>
@@ -215,7 +215,7 @@ export default function HomePage() {
               <h2 style={{ marginTop: "0.6rem" }}>See what’s pouring this week.</h2>
               <p>New jars, behind-the-scenes wax, and the real way to reserve one.</p>
             </div>
-            <a className="btn btn-fill" href={site.instagram} target="_blank" rel="noreferrer">
+            <a className="btn btn-fill" href={site.dm} target="_blank" rel="noreferrer">
               <InstagramIcon />
               Open Instagram
             </a>

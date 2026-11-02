@@ -4,9 +4,9 @@ A front-end shop for Honey’s handmade candles. People browse the collection he
 
 Live site: https://candle-making-xi.vercel.app/
 
-Instagram: https://www.instagram.com/cozy_corners_by_honey/
+Instagram: https://www.instagram.com/cozy_corner_by_honey/
 
-Direct message: https://ig.me/m/cozy_corners_by_honey
+Direct message: https://ig.me/m/cozy_corner_by_honey
 
 This folder: `C:\Users\jaima\Documents\candleMaking`
 
@@ -19,7 +19,7 @@ The site is the front of the shop. It shows the real photos, the scent, the size
 ## Brand rules
 
 - The name in page text is **Cozy Corner** or **Cozy Corner by Honey**. Do not write “corners” in copy.
-- The Instagram handle stays `cozy_corners_by_honey`. That is the real account. Do not rename the URL to match the shop name.
+- The Instagram handle stays `cozy_corner_by_honey`. That is the real account.
 - Colors are brown, black, and cream. Fonts are Fraunces for headings and Outfit for body text.
 - Do not invent a city, years in business, awards, reviews, or prices.
 - Do not put the Jack Daniel’s name in titles, descriptions, or alt text. The Tennessee Whiskey photo keeps the label that is already printed on the glass. The page name is Tennessee Whiskey.
