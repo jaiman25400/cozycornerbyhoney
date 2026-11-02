@@ -327,7 +327,7 @@ em { font-style: italic; }
 .hero-float {
   position: absolute;
   width: 34%;
-  aspect-ratio: 2 / 3;
+  aspect-ratio: 3 / 4;
   left: auto;
   right: 5%;
   bottom: 8%;
